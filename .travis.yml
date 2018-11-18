@@ -85,7 +85,3 @@ script:
 after_success:
   - coveralls
 
-notifications:
-    email:
-        - kangwon@gmail.com
-
